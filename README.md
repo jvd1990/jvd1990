@@ -36,7 +36,7 @@ preventive maintenance, machine overhauls and team coordination.
 
 I am currently looking for a Master's thesis or working student
 opportunity in automation, simulation, control engineering,
-energy systems or engineering-oriented software development.
+energy systems and engineering-oriented software development.
 
 ## 📫 Contact
 

@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Javad Gazmeh 👋
 
-<!--
-**jvd1990/jvd1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Mechanical Engineering at the
+University of Duisburg-Essen, Germany.
 
-Here are some ideas to get you started:
+I have eight years of professional experience in industrial
+maintenance and production systems, including troubleshooting,
+preventive maintenance, machine overhauls and team coordination.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Areas of Interest
+
+- Automation and Control Engineering
+- Robotics and Drive Technology
+- Python Programming
+- MATLAB and Simulink
+- Machine Learning for Engineering Applications
+- Energy, Hydrogen and Sustainable Technologies
+
+## 💻 Technical Skills
+
+- MATLAB / Simulink
+- Python
+- Fusion 360
+- Netfabb
+- Control Engineering
+- Industrial Maintenance
+
+## 📚 Currently Learning
+
+- Python Programming
+- NumPy, Pandas and Matplotlib
+- Machine Learning with scikit-learn
+- Engineering Data Analysis
+
+## 🚀 Current Goal
+
+I am currently looking for a Master's thesis or working student
+opportunity in automation, simulation, control engineering,
+energy systems or engineering-oriented software development.
+
+## 📫 Contact
+
+- Location: Düsseldorf, Germany
+- LinkedIn: [linkedin.com/in/javad-gazmeh](https://www.linkedin.com/in/javad-gazmeh/)

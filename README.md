@@ -1,44 +1,38 @@
-# Hi, I'm Javad Gazmeh 👋
+# Javad Gazmeh
 
-I'm a Master's student in Mechanical Engineering at the
-University of Duisburg-Essen, Germany.
+**Mechanical Engineering M.Sc. Student · Industrial Maintenance · Automation & Control**
 
-I have eight years of professional experience in industrial
-maintenance and production systems, including troubleshooting,
-preventive maintenance, machine overhauls and team coordination.
+I am a Master's student in Mechanical Engineering at the **University of Duisburg-Essen**, based in Düsseldorf, Germany. I combine eight years of professional experience in industrial maintenance and production systems with an interest in simulation, control engineering and engineering software.
 
-## 🔧 Areas of Interest
+**Open to Master's thesis and working student opportunities** in automation, simulation, control engineering, energy systems and engineering-oriented software development.
 
-- Automation and Control Engineering
-- Robotics and Drive Technology
-- Python Programming
-- MATLAB and Simulink
-- Machine Learning for Engineering Applications
-- Energy, Hydrogen and Sustainable Technologies
+## Engineering background
 
-## 💻 Technical Skills
+- Troubleshooting and preventive maintenance of industrial equipment
+- Machine overhauls and production-system maintenance
+- Team coordination in an industrial environment
 
-- MATLAB / Simulink
-- Python
-- Fusion 360
-- Netfabb
-- Control Engineering
-- Industrial Maintenance
+## Tools and development
 
-## 📚 Currently Learning
+| Area | Tools and focus |
+| --- | --- |
+| Simulation and control | MATLAB, Simulink, control engineering |
+| Design and manufacturing | Fusion 360, Netfabb |
+| Programming | Python fundamentals and practical exercises |
+| Current learning | NumPy, pandas, Matplotlib, scikit-learn and engineering data analysis |
 
-- Python Programming
-- NumPy, Pandas and Matplotlib
-- Machine Learning with scikit-learn
-- Engineering Data Analysis
+## Explore my work
 
-## 🚀 Current Goal
+### [Python Fundamentals](https://github.com/jvd1990/python-fundamentals)
 
-I am currently looking for a Master's thesis or working student
-opportunity in automation, simulation, control engineering,
-energy systems and engineering-oriented software development.
+My structured learning repository covers syntax, numerical operations, strings, dictionaries, sets, conditionals, loops and random operations. It includes topic-based folders and instructions for running the exercises.
 
-## 📫 Contact
+This portfolio currently documents my Python learning progress. My goal is to apply these foundations to engineering data analysis and automation.
 
-- Location: Düsseldorf, Germany
-- LinkedIn: [linkedin.com/in/javad-gazmeh](https://www.linkedin.com/in/javad-gazmeh/)
+## Interests
+
+Automation and control · Robotics and drive technology · Machine learning for engineering · Energy, hydrogen and sustainable technologies
+
+## Connect
+
+[Düsseldorf, Germany](https://github.com/jvd1990) · [LinkedIn](https://www.linkedin.com/in/javad-gazmeh/)
